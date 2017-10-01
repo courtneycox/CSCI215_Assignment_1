@@ -1,23 +1,22 @@
 body {
     background-color: #031424;
 }
-header {
+.header {
     background-color: #031424;
     font-family: Charter;
 }
-#name {
+.nine {
     font-family: "Avenir Next";
-    font-size: 80px;
     color: white;
     background-color: #CF6766;
     margin-bottom: 0px;
     margin-top: 20px;
+    text-align: center;
 }
-img {
-    float: right;
-    padding-top: 5px;
+#headshot {
+    margin: 0 auto;
 }
-#major {
+.twelve {
     font-family: "Avenir Next";
     color: #D5D5D5;
     border-bottom: solid #8EAEBD;
@@ -61,4 +60,12 @@ footer {
     font-family: "Avenir Next";
     color: white;
     text-align: center;
+}
+
+/* Tablet landsacpe*/
+@media screen and (max-width: 1060px) {
+    #primary { width: 67%;
+    }
+    #secondary { width: 30%; margin-left: 3%
+    }
 }
