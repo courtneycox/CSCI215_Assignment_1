@@ -1,5 +1,9 @@
 # Assignment_1
 
+
+http://coxcm.students.cofc.edu/CSCI215_Assignment_1/portfolio/index.html
+
+
 ## Due 14 Sep 2017, 11:59pm
 
 * **Fork** this repository to your GitHub and **Clone** to your computer.
